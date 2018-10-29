@@ -1,0 +1,33 @@
+{
+                "channelList": [{
+			"streamName":"test1",
+                        "streamURL": "igmp://239.1.1.1:9000",
+                        "recordRootPath": "/home/zhudy/record_tmp",
+			"recordStorageDays":7,
+                        "recordSinglFileSizeMB": 100
+                },
+		{
+                        "streamName":"test2",
+                        "streamURL": "igmp://239.1.1.2:9000",
+                        "recordRootPath": "/home/zhudy/record_tmp",
+                        "recordStorageDays":7,
+                        "recordSinglFileSizeMB": 100
+                },
+		{
+                        "streamName":"test3",
+                        "streamURL": "igmp://239.1.1.3:9000",
+                        "recordRootPath": "/home/zhudy/record_tmp",
+                        "recordStorageDays":7,
+                        "recordSinglFileSizeMB": 100
+                },
+		{
+                        "streamName":"test4",
+                        "streamURL": "igmp://239.1.1.4:9000",
+                        "recordRootPath": "/home/zhudy/record_tmp",
+                        "recordStorageDays":7,
+                        "recordSinglFileSizeMB": 100
+                }
+		]
+
+
+}
